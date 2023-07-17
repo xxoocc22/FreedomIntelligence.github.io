@@ -1,4 +1,4 @@
-# cuhksznlp.github.io
+# FreedomIntelligence.github.io
 A new website for CUHKSZ NLP group (under construction). For now this page will host our blog posts and our group index page.
 Feel free to add blogs, news & new publications to our group page. :)
 
