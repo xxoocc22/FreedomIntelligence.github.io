@@ -6,6 +6,7 @@ Feel free to add blogs, news & new publications to our group page. :)
 实验室3090服务器: /workspace2/FreedomIntelligence.github.io
 ```bash
 $ cd /workspace2/FreedomIntelligence.github.io
+$ source /home/lthpc/.rvm/scripts/rvm
 $ bundle exec jekyll serve
 ```
 
