@@ -1,34 +1,25 @@
-# hkunlp.github.io
-A new website for HKU NLP group (under construction). For now this page will host our blog posts and our group index page.
+# cuhksznlp.github.io
+A new website for CUHKSZ NLP group (under construction). For now this page will host our blog posts and our group index page.
 Feel free to add blogs, news & new publications to our group page. :)
 
-## Lighthouse PageSpeed Insights
-
-Run the website!
-
-#### Local Setup (Standard)
-
-Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*), first [fork](https://guides.github.com/activities/forking/) the theme from `github.com:alshedivat/al-folio` to `github.com:<your-username>/<your-repo-name>` and do the following:
-
+## Set up
+实验室3090服务器: /workspace2/CUHKSZ-NLP.github.io
 ```bash
-$ git clone git@github.com:<your-username>/<your-repo-name>.git
-$ cd <your-repo-name>
-$ bundle install
+$ cd /workspace2/CUHKSZ-NLP.github.io
 $ bundle exec jekyll serve
 ```
 
-Now, feel free to customize the theme however you like (don't forget to change the name!).
-After you are done, **commit** your final changes.
+## Change & Add
 
----
+/workspace2/CUHKSZ-NLP.github.io/_pages
 
-## Features
 
-### News
 
-For new news entry, follow the stye in _news folder.
+<!-- ### News
 
-### Publications
+For new news entry, follow the stye in _news folder. -->
+
+<!-- ### Publications
 
 Your publications page is generated automatically from your BibTex bibliography.
 Simply edit `_bibliography/papers.bib`.
@@ -92,5 +83,5 @@ You can implement your own buttons by editing the bib.html file.
    
 </details>
 
----
+--- -->
 
