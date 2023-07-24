@@ -5,7 +5,7 @@ permalink: /people/
 description:
 nav: true
 nav_order: 1
-display_categories: [Faculty, Current Students, Alumni]
+display_categories: [Faculty, Staff, Current Students]
 horizontal: false
 ---
 
