@@ -5,5 +5,5 @@ description: Research Scientis in SRIBD
 img: /assets/img/gao.png
 importance: 1
 category: Staff
-redirect: [https://fjiangai.github.io/](http://www.sribd.cn/teacher/976)http://www.sribd.cn/teacher/976
+redirect: http://www.sribd.cn/teacher/976
 ---
