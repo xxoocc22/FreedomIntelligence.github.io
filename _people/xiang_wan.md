@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xiang Wan
-description: Director of medical Lab in SRIBD
+description: Director of medical Lab in SRIBD and  affiliated professor in SDS, CUHK-Shenzhen
 img: /assets/img/wanxiang.jpg
 importance: 1
 category: Faculty
