@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Benyou Wang
-description: Executive Dean of SDS, Academian in The Academy of Engineering Singapore
+title: Haizhou Li
+description: Executive Dean of SDS, Academian in The Academy of Engineering Singapore, IEEE & ISCA Fellow
 img: /assets/img/haizhou.jpg
 importance: 1
 category: Faculty
