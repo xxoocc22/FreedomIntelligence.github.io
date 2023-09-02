@@ -27,7 +27,8 @@ The current focus of the NLP group in CUHKSZ includes:<br>
 3. Multilingual large language models;<br>
 4. Agents, Tools, HCI, and RAG in large language models;<br>
 5. Evaluation and understanding of large language models;<br>
-5. AI application in other fields.<br><br>
+6. Core applications of NLP and speech.
+7. LLM applications in other fields.<br><br>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
