@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Benyou Wang
-description: faculty
+description:  Assistant professor in SDS, CUHK-Shenzhen and affiliated research scientisit in SRIBD
 img: /assets/img/benyou.jpg
 importance: 1
-category: Assistant professor in SDS, CUHK-Shenzhen and affiliated research scientisit in SRIBD
+category: Faculty
 redirect: https://wabyking.github.io/old.html
 ---
