@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Democratizing ChatGPT
+description: ChatGPT-level performance with  openness and lower cost 
 img: assets/img/3.jpg
 importance: 2
 category: work
