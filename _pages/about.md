@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Welcome to CUHKSZ NLP group! We are a group of researchers working on natural language processing in the <a href="https://sds.cuhk.edu.cn/">School of Data Science</a> at the <a href="https://cuhk.edu.cn/zh-hans">The Chinese University of HongKong, Shenzhen</a>. 
+subtitle: Welcome to CUHKSZ NLP group! We are a group of researchers working on natural language processing in the <a href="https://sds.cuhk.edu.cn/">School of Data Science</a> at the <a href="https://cuhk.edu.cn/zh-hans">The Chinese University of HongKong, Shenzhen  </a>. and <a href="sribd.cn"> SRIBD </a>
 logo: group_name.png
 research: picture.png
 
@@ -22,11 +22,12 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 The current focus of the NLP group in CUHKSZ includes:<br>
-1. Pre-trained language models and their peripherals;<br>
-2. Core applications of NLP and Speech;<br>
-3. Applying machine learning, including novel representation learning methods like tensor networks and complex neural networks;<br>
-4. Quantum machine learning;<br>
-5. AI application in other fields, such as biomedical and healthcare.<br><br>
+1. Democratizing large language models;<br>
+2. Medical large language models;<br>
+3. Multilingual large language models;<br>
+4. Agents, Tools, HCI, and RAG in large language models;<br>
+5. Evaluation and understanding of large language models;<br>
+5. AI application in other fields.<br><br>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
